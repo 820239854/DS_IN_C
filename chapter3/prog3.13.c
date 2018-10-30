@@ -14,7 +14,7 @@ int main(int argc, char const *argv[])
 		r = p;
 	}
 
-	// Traverse(r);
-	Traverse(Reverse(r));
+	Traverse(r);
+	// Traverse(Reverse(r));
 	return 0;
 }

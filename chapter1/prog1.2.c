@@ -23,5 +23,7 @@ int main(int argc, char const *argv[])
 		id[i] = id[j];
 		printf("%d %d\n", p, q);
 	}
+
+	// Clan of Qucik_Union ?
 	return 0;
 }
